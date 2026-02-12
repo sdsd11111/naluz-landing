@@ -119,7 +119,7 @@ const Hero = () => {
                         transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
                         className="absolute -bottom-6 -left-6 bg-anthracite border border-white/10 p-6 rounded-2xl shadow-2xl"
                     >
-                        <p className="text-gold font-serif text-2xl mb-1">Estilo Vanguardista</p>
+                        <p className="text-gold font-serif text-2xl mb-1">Iluminación de Élite</p>
                         <p className="text-white/50 text-sm font-sans uppercase tracking-tighter">Colección 2026</p>
                     </motion.div>
                 </motion.div>
