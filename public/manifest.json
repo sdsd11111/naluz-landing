@@ -1,0 +1,21 @@
+{
+    "name": "Naluz | Ilumina con Estilo",
+    "short_name": "Naluz",
+    "description": "Transformamos espacios con diseño sofisticado y tecnología LED de vanguardia.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#D4AF37",
+    "icons": [
+        {
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
